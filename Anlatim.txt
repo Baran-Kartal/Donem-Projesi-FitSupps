@@ -1,0 +1,7 @@
+Guest Siteye Giriş Yapıp Ürünleri İnceleyebilir. Ürun Seçiminde belirli filtreleri kullanabilir.
+Urunleri İsterse Sepete Ekleyip Satin alabilir ya da "Hemen Al" seçeneğiyle direkt olarak odeme ekranına geçebilir.
+Guest İster ise Siteye Kayit olabilir. Kayit ekraninda: Şifre ve e-posta istenir. Şifre ozel karaktere izin vermez ve 
+büyük-küçük harf kullanımına dikkat eder. Guest Kayıt olduktan sonra "Registered User" olarak gorunur ve sitedeki 
+indirimlerden yararlanabilir. Her satın alma işleminde "Registered User" harcadigi miktara oranla puan kazanır 
+bu puanlar yeterince birikir ise; Örneğin 100 puan birikti satin alma ekraninda puanlari kullan seçeneğini seçerek 
+odemesi gereken bakiyeden düşülür ve urun indirimli olda bile bu işlem gerçekleşir. 
